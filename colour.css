@@ -30,6 +30,7 @@ body.wrong {
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 0 10px 2px;
+   height: 200px;
 }
 
 .btn-grid {
@@ -47,6 +48,7 @@ body.wrong {
   padding: 5px 10px;
   color: white;
   outline: none;
+  height:50px;
 }
 
 .btn:hover {
